@@ -1,8 +1,8 @@
 To clone:
 
 ```bash
-git clone https://github.com/waterloop/New_MC.git
-cd New_MC/
+git clone https://github.com/waterloop/electrical-mcu.git
+cd electrical-mcu/
 
 ./install.sh
 ```
