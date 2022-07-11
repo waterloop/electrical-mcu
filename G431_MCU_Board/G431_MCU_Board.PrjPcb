@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
 IsVirtualBomDocumentRemoved=1
-OutputPath=
+OutputPath=Project Outputs for G431_MCU_Board
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -131,7 +131,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=FHCACZGW
+DocumentUniqueId=OZPERRNF
 
 [Document6]
 DocumentPath=..\electrical-AltiumLibraries\Libraries\General\GeneralComponents.PcbLib
@@ -348,7 +348,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for G431_MCU_Board
 
 [OutputGroup1]
 Name=Netlist Outputs
