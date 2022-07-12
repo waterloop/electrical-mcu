@@ -1,0 +1,29 @@
+Removed Member From Class: ClassName=main Member=J7
+Removed Member From Class: ClassName=U_mcu Member=J7
+Removed Member From Class: ClassName=main Member=R12
+Removed Member From Class: ClassName=main Member=R13
+Removed Member From Class: ClassName=main Member=R14
+Removed Member From Class: ClassName=main Member=R15
+Removed Member From Class: ClassName=U_mcu Member=R15
+Change Component Footprint: Designator=U5 Old Footprint=TCA9534DWR New Footprint=TJA1051T/3,118 - duplicate
+Add Component: Footprint Not Found Model Name
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Added Member To Class: ClassName=main Member=Component J4 MTJ-88ARX1-FSM-LV
+Added Member To Class: ClassName=main Member=Component J5 PH2RA-12-UA
+Added Member To Class: ClassName=U_mcu Member=Component J6 1x3 Header
+Added Member To Class: ClassName=main Member=Component R5 Resistor
+Added Member To Class: ClassName=main Member=Component R6 Resistor
+Added Member To Class: ClassName=main Member=Component R7 Resistor
+Added Member To Class: ClassName=main Member=Component R8 Resistor
+Added Member To Class: ClassName=main Member=Component R9 Resistor
+Added Member To Class: ClassName=main Member=Component R10 Resistor
+Added Member To Class: ClassName=U_mcu Member=Component R11 Resistor
+Add Class Member: Failed to add class member : Component U1 AP1704DWG-7
+Added Room: Name=main
+Added Room: Name=U_can
+Added Room: Name=U_eeprom
+Added Room: Name=U_gpio_expander
+Added Room: Name=U_mcu
+Added Room: Name=U_power

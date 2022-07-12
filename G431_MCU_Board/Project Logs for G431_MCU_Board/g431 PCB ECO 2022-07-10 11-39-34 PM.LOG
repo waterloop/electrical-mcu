@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=WRITE_CTRL Pin=U7-4
+Add Component: Footprint Not Found Model Name
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Added Pin To Net: NetName=WRITE_CTRL Pin=U7-12
+Add Class Member: Failed to add class member : Component U1 AP1704DWG-7

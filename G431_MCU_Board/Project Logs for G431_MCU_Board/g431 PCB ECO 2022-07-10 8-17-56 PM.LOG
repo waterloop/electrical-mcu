@@ -1,0 +1,15 @@
+Add Component: Footprint Not Found Model Name
+Add Pin To Net: Unknown Pin: Pin J4-7
+Add Pin To Net: Unknown Pin: Pin J4-8
+Add Pin To Net: Unknown Pin: Pin J4-9
+Add Pin To Net: Unknown Pin: Pin J4-10
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Class Member: Failed to add class member : Component U1 AP1704DWG-7
+Added Room: Name=main
+Added Room: Name=U_can
+Added Room: Name=U_eeprom
+Added Room: Name=U_gpio_expander
+Added Room: Name=U_mcu
+Added Room: Name=U_power

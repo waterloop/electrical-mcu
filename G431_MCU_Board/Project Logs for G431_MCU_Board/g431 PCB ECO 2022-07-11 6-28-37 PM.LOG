@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=GND Pin=R5-1
+Removed Pin From Net: NetName=GND Pin=R7-1
+Removed Member From Class: ClassName=main Member=R9
+Removed Member From Class: ClassName=main Member=R10
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R3 NewDesignator=R2
+Change Component Designator: OldDesignator=R6 NewDesignator=R5
+Change Component Designator: OldDesignator=R8 NewDesignator=R6
+Change Component Designator: OldDesignator=R9 NewDesignator=R7
+Change Component Designator: OldDesignator=R10 NewDesignator=R8
+Change Component Designator: OldDesignator=R11 NewDesignator=R9
+Change Component Designator: OldDesignator=R12 NewDesignator=R10
+Change Component Designator: OldDesignator=R13 NewDesignator=R11
+Change Component Designator: OldDesignator=R14 NewDesignator=R12
+Change Component Designator: OldDesignator=R15 NewDesignator=R13
+Change Component Designator: OldDesignator=R16 NewDesignator=R14
+Add Component: Footprint Not Found Model Name
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Added Pin To Net: NetName=SHIELD Pin=J3-MH1
+Added Pin To Net: NetName=SHIELD Pin=J3-MH2
+Added Pin To Net: NetName=SHIELD Pin=J4-MH1
+Added Pin To Net: NetName=SHIELD Pin=J4-MH2
+Added Pin To Net: NetName=SHIELD Pin=R1-2
+Added Pin To Net: NetName=SHIELD Pin=R2-2
+Added Net: Name=SHIELD
+Added Member To Class: ClassName=main Member=Component J3 MTJ-88ARX1-FSM-LV
+Add Class Member: Failed to add class member : Component U1 AP1704DWG-7

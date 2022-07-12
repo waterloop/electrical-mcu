@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=CAN_N Pin=J3-1
+Removed Pin From Net: NetName=CAN_P Pin=J3-2
+Add Component: Footprint Not Found Model Name
+Added Pin To Net: NetName=CAN_N Pin=J3-3
+Added Pin To Net: NetName=CAN_P Pin=J3-4
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Class Member: Failed to add class member : Component U1 AP1704DWG-7
+Added Room: Name=main
+Added Room: Name=U_can
+Added Room: Name=U_eeprom
+Added Room: Name=U_gpio_expander
+Added Room: Name=U_mcu
+Added Room: Name=U_power

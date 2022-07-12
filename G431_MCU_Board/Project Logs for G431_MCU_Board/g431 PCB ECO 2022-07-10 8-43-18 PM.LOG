@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=J1-1
+Removed Pin From Net: NetName=12V Pin=J1-2
+Add Component: Footprint Not Found Model Name
+Added Pin To Net: NetName=12V Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Class Member: Failed to add class member : Component U1 AP1704DWG-7

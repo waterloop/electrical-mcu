@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=J7 NewDesignator=J8
+Change Component Designator: OldDesignator=P1 NewDesignator=J7
+Add Component: Footprint Not Found Model Name
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Class Member: Failed to add class member : Component U1 AP1704DWG-7

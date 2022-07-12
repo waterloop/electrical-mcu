@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=CAN_N Pin=J3-3
+Removed Pin From Net: NetName=CAN_P Pin=J3-4
+Removed Pin From Net: NetName=CAN_N Pin=J4-3
+Removed Pin From Net: NetName=CAN_P Pin=J4-4
+Add Component: Footprint Not Found Model Name
+Added Pin To Net: NetName=CAN_N Pin=J3-1
+Added Pin To Net: NetName=CAN_P Pin=J3-2
+Added Pin To Net: NetName=CAN_N Pin=J4-1
+Added Pin To Net: NetName=CAN_P Pin=J4-2
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Class Member: Failed to add class member : Component U1 AP1704DWG-7

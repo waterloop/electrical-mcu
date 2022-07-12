@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=3.3V NewDesignator=LED5
+Change Component Designator: OldDesignator=5V NewDesignator=LED4
+Change Component Designator: OldDesignator=12V NewDesignator=LED3
+Add Component: Footprint Not Found Model Name
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Added Member To Class: ClassName=main Member=Component R2 Resistor
+Add Class Member: Failed to add class member : Component U1 AP1704DWG-7

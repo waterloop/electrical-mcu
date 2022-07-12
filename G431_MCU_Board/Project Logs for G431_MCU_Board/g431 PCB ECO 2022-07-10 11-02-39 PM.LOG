@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=12V Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C10-2
+Removed Pin From Net: NetName=5V_DCDC Pin=C11-1
+Removed Pin From Net: NetName=GND Pin=C11-2
+Removed Pin From Net: NetName=3.3V Pin=C12-1
+Removed Pin From Net: NetName=GND Pin=C12-2
+Change Component Footprint: Designator=C10 Old Footprint=OCVZ0606 - CAPACITOR New Footprint=0603 - Capacitor
+Change Component Footprint: Designator=C11 Old Footprint=OCVZ0606 - CAPACITOR New Footprint=0603 - Capacitor
+Change Component Footprint: Designator=C12 Old Footprint=OCVZ0606 - CAPACITOR New Footprint=0603 - Capacitor
+Change Component Comment : Designator=C10 Old Comment=Capacitor - Polarized New Comment=Capacitor - Nonpolarized
+Change Component Comment : Designator=C11 Old Comment=Capacitor - Polarized New Comment=Capacitor - Nonpolarized
+Change Component Comment : Designator=C12 Old Comment=Capacitor - Polarized New Comment=Capacitor - Nonpolarized
+Change component parameters: Designator = "C11" ("C11"); Footprint = "OCVZ0606 - CAPACITOR"; UniqueID = "\KMIPREHR\KGSLAZHS" ("\KMIPREHR\KGSLAZHS")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Volt Rating"; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12" ("C12"); Footprint = "OCVZ0606 - CAPACITOR"; UniqueID = "\KMIPREHR\EPCEFSCM" ("\KMIPREHR\EPCEFSCM")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Volt Rating"; Value = "10V"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found Model Name
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=12V Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=5V_DCDC Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=3.3V Pin=C12-2
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Class Member: Failed to add class member : Component U1 AP1704DWG-7
+Added Room: Name=main
+Added Room: Name=U_can
+Added Room: Name=U_eeprom
+Added Room: Name=U_gpio_expander
+Added Room: Name=U_mcu
+Added Room: Name=U_power
