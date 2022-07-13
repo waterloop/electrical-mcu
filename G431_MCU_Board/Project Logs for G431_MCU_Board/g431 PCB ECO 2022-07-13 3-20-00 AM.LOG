@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=GND Pin=J4-9
+Removed Pin From Net: NetName=GND Pin=J4-11
+Removed Pin From Net: NetName=GND Pin=LED1-2
+Removed Pin From Net: NetName=GND Pin=LED2-2
+Removed Pin From Net: NetName=CAN_G_LED Pin=R5-2
+Removed Pin From Net: NetName=CAN_Y_LED Pin=R6-2
+Removed Pin From Net: NetName=G_LED Pin=R7-2
+Removed Pin From Net: NetName=R_LED Pin=R8-2
+Added Pin To Net: NetName=R_LED Pin=R8-1
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=R7-2
+Added Net: Name=NetLED1_2
+Added Pin To Net: NetName=NetLED2_2 Pin=LED2-2
+Added Pin To Net: NetName=NetLED2_2 Pin=R8-2
+Added Net: Name=NetLED2_2
+Added Room: Name=main
+Added Room: Name=U_can
+Added Room: Name=U_eeprom
+Added Room: Name=U_gpio_expander
+Added Room: Name=U_mcu
+Added Room: Name=U_power
