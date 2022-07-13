@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\shared\Waterloop\altium\electrical-mcu\G431\G431_MCU_Board\g431.PcbDoc
 Date     : 2022-07-13
-Time     : 2:51:13 AM
+Time     : 2:59:36 AM
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
 Rule Violations :0
@@ -45,4 +45,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01
