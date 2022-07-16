@@ -1,0 +1,53 @@
+Change Physical Footprint: Designator=C1 Old Footprint=0603 - Capacitor New Footprint=0603 - Capacitor
+Change Physical Footprint: Designator=C2 Old Footprint=0603 - Capacitor New Footprint=0603 - Capacitor
+Change Physical Footprint: Designator=C3 Old Footprint=0603 - Capacitor New Footprint=0603 - Capacitor
+Change Physical Footprint: Designator=C4 Old Footprint=0603 - Capacitor New Footprint=0603 - Capacitor
+Change Physical Footprint: Designator=C5 Old Footprint=0603 - Capacitor New Footprint=0603 - Capacitor
+Change Physical Footprint: Designator=C6 Old Footprint=0603 - Capacitor New Footprint=0603 - Capacitor
+Change Physical Footprint: Designator=C7 Old Footprint=0603 - Capacitor New Footprint=0603 - Capacitor
+Change Physical Footprint: Designator=C8 Old Footprint=0603 - Capacitor New Footprint=0603 - Capacitor
+Change Physical Footprint: Designator=C9 Old Footprint=0603 - Capacitor New Footprint=0603 - Capacitor
+Change Physical Footprint: Designator=C10 Old Footprint=0603 - Capacitor New Footprint=0603 - Capacitor
+Change Physical Footprint: Designator=C11 Old Footprint=0603 - Capacitor New Footprint=0603 - Capacitor
+Change Physical Footprint: Designator=C12 Old Footprint=0603 - Capacitor New Footprint=0603 - Capacitor
+Change Physical Footprint: Designator=C13 Old Footprint=0603 - Capacitor New Footprint=0603 - Capacitor
+Change Physical Footprint: Designator=C14 Old Footprint=0603 - Capacitor New Footprint=0603 - Capacitor
+Change Physical Footprint: Designator=C15 Old Footprint=0603 - Capacitor New Footprint=0603 - Capacitor
+Change Physical Footprint: Designator=C16 Old Footprint=0603 - Capacitor New Footprint=0603 - Capacitor
+Change Physical Footprint: Designator=C17 Old Footprint=0603 - Capacitor New Footprint=0603 - Capacitor
+Change Physical Footprint: Designator=C18 Old Footprint=0603 - Capacitor New Footprint=0603 - Capacitor
+Change Physical Footprint: Cannot match pads with new footprint in component :J1 Footprint:Molex0050361758
+Change Physical Footprint: Designator=J2 Old Footprint=PH2RA-30-UA New Footprint=PH2RA-30-UA
+Change Physical Footprint: Designator=J3 Old Footprint=MTJ-88ARX1-FSM-LV New Footprint=MTJ-88ARX1-FSM-LV
+Change Physical Footprint: Designator=J4 Old Footprint=MTJ-88ARX1-FSM-LV New Footprint=MTJ-88ARX1-FSM-LV
+Change Physical Footprint: Designator=J5 Old Footprint=PH2RA-12-UA New Footprint=PH2RA-12-UA
+Change Physical Footprint: Designator=J6 Old Footprint=HDR1X3 New Footprint=HDR1X3
+Change Physical Footprint: Designator=J7 Old Footprint=HDR2x5 New Footprint=HDR2x5
+Change Physical Footprint: Designator=J8 Old Footprint=HDR1X2 New Footprint=HDR1X2
+Change Physical Footprint: Designator=LED1 Old Footprint=0805 - DIODE New Footprint=0805 - DIODE
+Change Physical Footprint: Designator=LED2 Old Footprint=0805 - DIODE New Footprint=0805 - DIODE
+Change Physical Footprint: Designator=LED3 Old Footprint=0805 - DIODE New Footprint=0805 - DIODE
+Change Physical Footprint: Designator=LED4 Old Footprint=0805 - DIODE New Footprint=0805 - DIODE
+Change Physical Footprint: Designator=LED5 Old Footprint=0805 - DIODE New Footprint=0805 - DIODE
+Change Physical Footprint: Designator=R1 Old Footprint=0603 - Resistor New Footprint=0603 - Resistor
+Change Physical Footprint: Designator=R2 Old Footprint=0603 - Resistor New Footprint=0603 - Resistor
+Change Physical Footprint: Designator=R3 Old Footprint=0603 - Resistor New Footprint=0603 - Resistor
+Change Physical Footprint: Designator=R4 Old Footprint=0603 - Resistor New Footprint=0603 - Resistor
+Change Physical Footprint: Designator=R5 Old Footprint=0603 - Resistor New Footprint=0603 - Resistor
+Change Physical Footprint: Designator=R6 Old Footprint=0603 - Resistor New Footprint=0603 - Resistor
+Change Physical Footprint: Designator=R7 Old Footprint=0603 - Resistor New Footprint=0603 - Resistor
+Change Physical Footprint: Designator=R8 Old Footprint=0603 - Resistor New Footprint=0603 - Resistor
+Change Physical Footprint: Designator=R9 Old Footprint=0603 - Resistor New Footprint=0603 - Resistor
+Change Physical Footprint: Designator=R10 Old Footprint=0603 - Resistor New Footprint=0603 - Resistor
+Change Physical Footprint: Designator=R11 Old Footprint=0603 - Resistor New Footprint=0603 - Resistor
+Change Physical Footprint: Designator=R12 Old Footprint=0603 - Resistor New Footprint=0603 - Resistor
+Change Physical Footprint: Designator=R13 Old Footprint=0603 - Resistor New Footprint=0603 - Resistor
+Change Physical Footprint: Designator=S1 Old Footprint=6x6mm Switch New Footprint=6x6mm Switch
+Change Physical Footprint: Designator=U1 Old Footprint=SOT95P285X140-3N New Footprint=SOT95P285X140-3N
+Change Physical Footprint: Designator=U2 Old Footprint=TSQFP50P900X900X160-48N New Footprint=TSQFP50P900X900X160-48N
+Change Physical Footprint: Designator=U3 Old Footprint=LC78_05-0.5 New Footprint=LC78_05-0.5
+Change Physical Footprint: Designator=U4 Old Footprint=TLV1117 New Footprint=TLV1117
+Change Physical Footprint: Designator=U5 Old Footprint=TJA1051T/3,118 - duplicate New Footprint=TJA1051T/3,118 - duplicate
+Change Physical Footprint: Designator=U6 Old Footprint=SOIC127P600X175-8N New Footprint=SOIC127P600X175-8N
+Change Physical Footprint: Designator=U7 Old Footprint=TCA9534DWR New Footprint=TCA9534DWR
+Change Physical Footprint: Designator=Y1 Old Footprint=2-SMD NO LEAD CRSYSTAL New Footprint=2-SMD NO LEAD CRSYSTAL

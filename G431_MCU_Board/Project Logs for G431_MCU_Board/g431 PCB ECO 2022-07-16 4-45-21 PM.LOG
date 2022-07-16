@@ -1,0 +1,26 @@
+Removed Member From Class: ClassName=U_mcu Member=C12
+Removed Member From Class: ClassName=U_eeprom Member=C18
+Removed Member From Class: ClassName=U_mcu Member=R7
+Change Component Footprint: Designator=J1 Old Footprint=MOLEX0039301021 New Footprint=Molex0050361758
+Change Component Comment : Designator=J1 Old Comment=MOLEX0039301021 New Comment=MOLEX0050361758
+Change component parameters: Designator = "J1" ("J1"); Footprint = "MOLEX0039301021"; UniqueID = "\VRQVKNAB" ("\VRQVKNAB")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.molex.com/pdm_docs/ps/PS-5556-001.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0050361758"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "0050361758-ND"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=U_mcu Member=Component C1 Capacitor - Nonpolarized
+Added Member To Class: ClassName=U_mcu Member=Component C3 Capacitor - Nonpolarized
+Added Member To Class: ClassName=U_mcu Member=Component C5 Capacitor - Nonpolarized
+Added Member To Class: ClassName=U_mcu Member=Component C7 Capacitor - Nonpolarized
+Added Member To Class: ClassName=U_mcu Member=Component C9 Capacitor - Nonpolarized
+Added Member To Class: ClassName=U_power Member=Component C11 Capacitor - Nonpolarized
+Added Member To Class: ClassName=U_power Member=Component C13 Capacitor - Nonpolarized
+Added Member To Class: ClassName=U_can Member=Component C15 Capacitor - Nonpolarized
+Added Member To Class: ClassName=U_eeprom Member=Component C17 Capacitor - Nonpolarized
+Added Member To Class: ClassName=main Member=Component R4 Resistor
+Added Member To Class: ClassName=main Member=Component R6 Resistor
+Added Member To Class: ClassName=U_mcu Member=Component R8 Resistor
+Added Member To Class: ClassName=U_mcu Member=Component R10 Resistor
+Added Member To Class: ClassName=U_power Member=Component R12 Resistor

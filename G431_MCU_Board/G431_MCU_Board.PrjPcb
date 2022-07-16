@@ -114,7 +114,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OVTIRPKI
 
 [Document5]
 DocumentPath=..\electrical-AltiumLibraries\Libraries\General.SchLib
