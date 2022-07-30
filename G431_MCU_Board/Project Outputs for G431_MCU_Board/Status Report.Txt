@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 4:02:59 PM On 2022-07-30
+
+Output: Bill of Materials
+Type  : BOM
+From  : Project [G431_MCU_Board.PrjPcb]
+   Generated File[Bill of Materials-G431_MCU_Board.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 4:03:01 PM On 2022-07-30
