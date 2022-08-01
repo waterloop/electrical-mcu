@@ -4,9 +4,9 @@ C:\shared\Waterloop\altium\electrical-mcu\G431\G431_MCU_Board\Project Outputs fo
 ========================================================================================================================,,,,,,,,,,
 File Design Information:,,,,,,,,,,
 ,,,,,,,,,,
-Date:       30-07-22,,,,,,,,,,
-Time:       16:01,,,,,,,,,,
-Revision:   b33d3e89180ad0bfbb21b6e3cd004fbf7fc99f57,,,,,,,,,,
+Date:       01-08-22,,,,,,,,,,
+Time:       17:54,,,,,,,,,,
+Revision:   74bd283d0aeec7424c9522257a01be06bc5baea5,,,,,,,,,,
 Variant:    No variations,,,,,,,,,,
 Units used: mm,,,,,,,,,,
 ,,,,,,,,,,
@@ -15,51 +15,49 @@ U3,LC78_05-0.5,81.6065mm,64.5160mm,81.6065mm,61.9760mm,81.6065mm,61.9760mm,TopLa
 J7,HDR2x5,81.1165mm,82.1690mm,79.8465mm,87.2490mm,79.8465mm,87.2490mm,TopLayer,270,2x5 Header
 J1,Molex0050361758,75.8960mm,52.4510mm,69.4960mm,52.4510mm,69.4960mm,52.4510mm,TopLayer,90,MOLEX0050361758
 J4,MTJ-88ARX1-FSM-LV,74.5350mm,35.5580mm,74.8030mm,33.2740mm,78.1050mm,33.5280mm,TopLayer,0,MTJ-88ARX1-FSM-LV
-C11,0603_-_Capacitor,74.2570mm,56.5340mm,74.2570mm,56.5340mm,73.5070mm,56.5340mm,TopLayer,0,Capacitor - Nonpolarized
-C12,0603_-_Capacitor,73.2790mm,66.4330mm,73.2790mm,66.4330mm,73.2790mm,65.6830mm,TopLayer,90,Capacitor - Nonpolarized
+C10,0805_-_Capacitor,74.1680mm,57.4040mm,74.1680mm,57.4040mm,73.2430mm,57.4040mm,TopLayer,0,Capacitor - Nonpolarized
+C11,0805_-_Capacitor,73.2790mm,66.2940mm,73.2790mm,66.2940mm,73.2790mm,65.3690mm,TopLayer,90,Capacitor - Nonpolarized
 J8,HDR1X2,71.8820mm,69.5960mm,70.6120mm,69.5960mm,70.6120mm,69.5960mm,TopLayer,0,1x2 Header
-C9,0603_-_Capacitor,69.5810mm,93.5990mm,69.5810mm,93.5990mm,69.5810mm,94.3490mm,TopLayer,270,Capacitor - Nonpolarized
-C14,0603_-_Capacitor,69.2150mm,71.8820mm,69.2150mm,71.8820mm,68.4650mm,71.8820mm,TopLayer,0,Capacitor - Nonpolarized
+C8,0603_-_Capacitor,69.5810mm,93.5990mm,69.5810mm,93.5990mm,69.5810mm,94.3490mm,TopLayer,270,Capacitor - Nonpolarized
+C13,0805_-_Capacitor,69.2150mm,72.2630mm,69.2150mm,72.2630mm,68.2900mm,72.2630mm,TopLayer,0,Capacitor - Nonpolarized
 Y1,2-SMD_NO_LEAD_CRSYSTAL,67.0560mm,90.2970mm,67.0560mm,90.2970mm,65.0060mm,90.2970mm,TopLayer,0,Oscillator
 R5,0603_-_Resistor,66.5480mm,46.0375mm,66.5480mm,46.0375mm,65.7230mm,46.0375mm,BottomLayer,0,Resistor
 R4,0603_-_Resistor,66.5480mm,44.5770mm,66.5480mm,44.5770mm,65.7230mm,44.5770mm,BottomLayer,0,Resistor
-C6,0603_-_Capacitor,66.0400mm,81.9270mm,66.0400mm,81.9270mm,66.0400mm,81.1770mm,TopLayer,90,Capacitor - Nonpolarized
+C5,0603_-_Capacitor,66.0400mm,81.9270mm,66.0400mm,81.9270mm,66.0400mm,81.1770mm,TopLayer,90,Capacitor - Nonpolarized
 J2,PH2RA-30-UA,64.6430mm,106.6800mm,82.4230mm,107.9500mm,82.4230mm,107.9500mm,TopLayer,0,PH2RA-30-UA
-C10,0603_-_Capacitor,64.5310mm,93.5990mm,64.5310mm,93.5990mm,64.5310mm,94.3490mm,TopLayer,270,Capacitor - Nonpolarized
+C9,0603_-_Capacitor,64.5310mm,93.5990mm,64.5310mm,93.5990mm,64.5310mm,94.3490mm,TopLayer,270,Capacitor - Nonpolarized
 U4,TLV1117,63.1735mm,67.3100mm,63.1735mm,67.3100mm,66.3235mm,65.0100mm,TopLayer,180,TLV1117-33IDCYR
 U5,"TJA1051T/3,118_-_duplicate",61.9760mm,49.7840mm,61.9760mm,49.7840mm,63.8810mm,52.5090mm,TopLayer,270,"TJA1051T_3,118"
-C15,0603_-_Capacitor,61.9760mm,54.6790mm,61.9760mm,54.6790mm,62.7260mm,54.6790mm,TopLayer,180,Capacitor - Nonpolarized
-C13,0603_-_Capacitor,59.2970mm,71.7550mm,59.2970mm,71.7550mm,58.5470mm,71.7550mm,TopLayer,0,Capacitor - Nonpolarized
+C14,0603_-_Capacitor,61.9760mm,54.6790mm,61.9760mm,54.6790mm,62.7260mm,54.6790mm,TopLayer,180,Capacitor - Nonpolarized
+C12,0805_-_Capacitor,59.2970mm,71.7550mm,59.2970mm,71.7550mm,58.3720mm,71.7550mm,TopLayer,0,Capacitor - Nonpolarized
 U2,TSQFP50P900X900X160-48N,58.5470mm,84.7090mm,58.5470mm,84.7090mm,63.4791mm,85.7520mm,TopLayer,135,STM32G431C6T6
 R3,0603_-_Resistor,58.1720mm,44.5770mm,58.1720mm,44.5770mm,58.9970mm,44.5770mm,BottomLayer,180,Resistor
 R2,0603_-_Resistor,58.1660mm,46.0375mm,58.1660mm,46.0375mm,58.9910mm,46.0375mm,BottomLayer,180,Resistor
-C16,0603_-_Capacitor,58.0390mm,49.7840mm,58.0390mm,49.7840mm,58.0390mm,50.5340mm,TopLayer,270,Capacitor - Nonpolarized
-C7,0603_-_Capacitor,56.6300mm,76.9620mm,56.6300mm,76.9620mm,55.8800mm,76.9620mm,TopLayer,0,Capacitor - Nonpolarized
+C15,0603_-_Capacitor,58.0390mm,49.7840mm,58.0390mm,49.7840mm,58.0390mm,50.5340mm,TopLayer,270,Capacitor - Nonpolarized
+C6,0603_-_Capacitor,56.6300mm,76.9620mm,56.6300mm,76.9620mm,55.8800mm,76.9620mm,TopLayer,0,Capacitor - Nonpolarized
 J3,MTJ-88ARX1-FSM-LV,52.8180mm,35.5580mm,53.0860mm,33.2740mm,56.3880mm,33.5280mm,TopLayer,0,MTJ-88ARX1-FSM-LV
-C4,0603_-_Capacitor,52.7685mm,89.9040mm,52.7685mm,89.9040mm,52.7685mm,90.6540mm,TopLayer,270,Capacitor - Nonpolarized
-R10,0603_-_Resistor,51.1810mm,82.5690mm,51.1810mm,82.5690mm,51.1810mm,81.7440mm,TopLayer,90,Resistor
-C8,0603_-_Capacitor,51.1810mm,86.9830mm,51.1810mm,86.9830mm,51.1810mm,87.7330mm,TopLayer,270,Capacitor - Nonpolarized
-C5,0603_-_Capacitor,51.1810mm,89.9040mm,51.1810mm,89.9040mm,51.1810mm,90.6540mm,TopLayer,270,Capacitor - Nonpolarized
-R9,0603_-_Resistor,49.6570mm,82.5690mm,49.6570mm,82.5690mm,49.6570mm,81.7440mm,TopLayer,90,Resistor
+C3,0603_-_Capacitor,52.7685mm,89.9040mm,52.7685mm,89.9040mm,52.7685mm,90.6540mm,TopLayer,270,Capacitor - Nonpolarized
+R9,0603_-_Resistor,51.1810mm,82.5690mm,51.1810mm,82.5690mm,51.1810mm,81.7440mm,TopLayer,90,Resistor
+C7,0603_-_Capacitor,51.1810mm,86.9830mm,51.1810mm,86.9830mm,51.1810mm,87.7330mm,TopLayer,270,Capacitor - Nonpolarized
+C4,0603_-_Capacitor,51.1810mm,89.9040mm,51.1810mm,89.9040mm,51.1810mm,90.6540mm,TopLayer,270,Capacitor - Nonpolarized
+R8,0603_-_Resistor,49.6570mm,82.5690mm,49.6570mm,82.5690mm,49.6570mm,81.7440mm,TopLayer,90,Resistor
 3.3V,0805_-_DIODE,48.8861mm,54.6078mm,48.8950mm,54.6100mm,48.8861mm,55.5578mm,TopLayer,270,YELLOW
 U6,SOIC127P600X175-8N,48.0060mm,72.3900mm,48.0060mm,72.3900mm,50.7180mm,70.4850mm,TopLayer,180,
-C1,0603_-_Capacitor,46.8630mm,89.0270mm,46.8630mm,89.0270mm,46.8630mm,89.7770mm,TopLayer,270,Capacitor - Nonpolarized
-C17,0603_-_Capacitor,45.2120mm,67.8180mm,45.2120mm,67.8180mm,45.2120mm,68.5680mm,TopLayer,270,Capacitor - Nonpolarized
+C1,0603_-_Capacitor,46.8630mm,90.0430mm,46.8630mm,90.0430mm,46.8630mm,90.7930mm,TopLayer,270,Capacitor - Nonpolarized
+C16,0603_-_Capacitor,45.2120mm,67.8180mm,45.2120mm,67.8180mm,45.2120mm,68.5680mm,TopLayer,270,Capacitor - Nonpolarized
 5V,0805_-_DIODE,43.7744mm,54.6078mm,43.7833mm,54.6100mm,43.7744mm,55.5578mm,TopLayer,270,YELLOW
-U1,SOT95P285X140-3N,43.6880mm,88.1380mm,43.6880mm,88.1380mm,42.3880mm,89.0880mm,TopLayer,0,AP1704DWG-7
+U1,FP-SOT143-4-MFG,43.6880mm,88.1380mm,43.6880mm,88.1380mm,42.4434mm,88.9000mm,TopLayer,0,STM811MW16F
 R1,0603_-_Resistor,43.0530mm,29.4640mm,43.0530mm,29.4640mm,43.0530mm,28.6390mm,BottomLayer,90,Resistor
-S1,6x6mm_Switch,40.3860mm,95.2500mm,40.3860mm,95.2500mm,35.8360mm,93.0000mm,TopLayer,180,Switch - Push Button
+C2,0603_-_Capacitor,40.2590mm,88.1380mm,40.2590mm,88.1380mm,40.2590mm,88.8880mm,TopLayer,270,Capacitor - Nonpolarized
+S1,6x6mm_Switch,39.7510mm,95.2500mm,39.7510mm,95.2500mm,35.2010mm,93.0000mm,TopLayer,180,Switch - Push Button
 12V,0805_-_DIODE,38.6626mm,54.6078mm,38.6715mm,54.6100mm,38.6626mm,55.5578mm,TopLayer,270,YELLOW
-C18,0603_-_Capacitor,37.8460mm,77.8510mm,37.8460mm,77.8510mm,37.0960mm,77.8510mm,TopLayer,0,Capacitor - Nonpolarized
-C2,0603_-_Capacitor,37.0840mm,90.2970mm,37.0840mm,90.2970mm,37.0840mm,91.0470mm,TopLayer,270,Capacitor - Nonpolarized
-R13,0603_-_Resistor,35.6680mm,59.8860mm,35.6680mm,59.8860mm,35.6680mm,59.0610mm,TopLayer,90,Resistor
-R8,0603_-_Resistor,35.6180mm,90.2470mm,35.6180mm,90.2470mm,35.6180mm,91.0720mm,TopLayer,270,Resistor
-R12,0603_-_Resistor,34.2710mm,59.8860mm,34.2710mm,59.8860mm,34.2710mm,59.0610mm,TopLayer,90,Resistor
+C17,0603_-_Capacitor,37.8460mm,77.8510mm,37.8460mm,77.8510mm,37.0960mm,77.8510mm,TopLayer,0,Capacitor - Nonpolarized
+R12,0603_-_Resistor,35.6680mm,59.8860mm,35.6680mm,59.8860mm,35.6680mm,59.0610mm,TopLayer,90,Resistor
+R11,0603_-_Resistor,34.2710mm,59.8860mm,34.2710mm,59.8860mm,34.2710mm,59.0610mm,TopLayer,90,Resistor
 J5,PH2RA-12-UA,34.1630mm,106.6800mm,40.5130mm,107.9500mm,40.5130mm,107.9500mm,TopLayer,0,PH2RA-12-UA
 U7,TCA9534DWR,33.8737mm,71.1200mm,33.8737mm,71.1200mm,29.1394mm,75.5650mm,TopLayer,0,TCA9534DWR
 LED2,0805_-_DIODE,33.5686mm,54.6122mm,33.5598mm,54.6100mm,33.5686mm,53.6622mm,TopLayer,90,RED
-C3,0603_-_Capacitor,33.2740mm,95.2500mm,33.2740mm,95.2500mm,33.2740mm,96.0000mm,TopLayer,270,Capacitor - Nonpolarized
-R11,0603_-_Resistor,32.8740mm,59.8860mm,32.8740mm,59.8860mm,32.8740mm,59.0610mm,TopLayer,90,Resistor
+R10,0603_-_Resistor,32.8740mm,59.8860mm,32.8740mm,59.8860mm,32.8740mm,59.0610mm,TopLayer,90,Resistor
 R7,0603_-_Resistor,31.4770mm,59.8860mm,31.4770mm,59.8860mm,31.4770mm,59.0610mm,TopLayer,90,Resistor
 R6,0603_-_Resistor,30.0800mm,59.8860mm,30.0800mm,59.8860mm,30.0800mm,59.0610mm,TopLayer,90,Resistor
 LED1,0805_-_DIODE,28.4569mm,54.6122mm,28.4480mm,54.6100mm,28.4569mm,53.6622mm,TopLayer,90,GREEN

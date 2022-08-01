@@ -2,208 +2,19 @@
 FileName = g431.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Layer
-      File : g431.GBL
+Generating : Top Assembly
+      File : g431_Top_Assembly.gbr
 
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Top Assembly
 
 
 Used DCodes :
-    D10
-    D19
-    D33
-    D65
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
-    D77
-    D78
-    D79
-    D80
-    D81
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : g431.GPB
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D33
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
-    D80
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : g431.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D50
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D82
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : g431.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D18
-    D19
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
-    D77
-    D78
-    D79
-*************************************************************
-
-*************************************************************
-Generating : GND
-      File : g431.G1
-
-    Adding Layer      : GND
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D69
-    D70
-    D72
-    D73
-    D74
-    D77
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : g431.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D33
-    D80
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 15
-      File : g431.GM15
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D11
-    D17
-    D86
-    D87
-    D88
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 13
-      File : g431.GM13
-
-    Adding Layer      : Mechanical 13
-
-
-Used DCodes :
-    D11
     D16
-    D83
-    D84
-    D85
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : g431.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D11
 *************************************************************
 
 *************************************************************
 Generating : Top Overlay
-      File : g431.GTO
+      File : g431_Legend_Top.gbr
 
     Adding Layer      : Top Overlay
 
@@ -223,23 +34,10 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : PWR
-      File : g431.G2
+Generating : Top Paste
+      File : g431_Paste_Top.gbr
 
-    Adding Layer      : PWR
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D73
-    D77
-    D78
-*************************************************************
-
-*************************************************************
-Generating : Top Pad Master
-      File : g431.GPT
+    Adding Layer      : Top Paste
 
     Adding Layer      : Top Layer
 
@@ -263,6 +61,56 @@ Used DCodes :
     D34
     D35
     D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : g431_Mechanical_13.gbr
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D12
+    D16
+    D86
+    D87
+    D88
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : g431_Copper_Signal_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D19
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D66
+    D67
+    D68
     D69
     D70
     D71
@@ -271,34 +119,87 @@ Used DCodes :
     D74
     D75
     D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : g431.GBO
+Generating : GND
+      File : g431_Copper_Signal_1.gbr
 
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : g431_Top_Courtyard.gbr
+
+    Adding Layer      : Top Courtyard
 
 
 Used DCodes :
     D16
-    D19
 *************************************************************
 
 *************************************************************
-Generating : Keep-Out Layer
-      File : g431.GKO
+Generating : Top 3D Body
+      File : g431_Top_3D_Body.gbr
 
-    Adding Layer      : Keep-Out Layer
+    Adding Layer      : Top 3D Body
 
 
 Used DCodes :
-    D19
+    D16
+*************************************************************
+
+*************************************************************
+Generating : PWR
+      File : g431_Copper_Signal_2.gbr
+
+    Adding Layer      : PWR
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
 *************************************************************
 
 *************************************************************
 Generating : Top Solder
-      File : g431.GTS
+      File : g431_Soldermask_Top.gbr
 
     Adding Layer      : Top Solder
 
@@ -308,7 +209,8 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D37
+    D21
+    D22
     D38
     D39
     D40
@@ -336,13 +238,156 @@ Used DCodes :
     D62
     D63
     D64
+    D65
 *************************************************************
 
 *************************************************************
-Generating : Top Paste
-      File : g431.GTP
+Generating : Mechanical 1
+      File : g431_Mechanical_1.gbr
 
-    Adding Layer      : Top Paste
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Bottom Courtyard
+      File : g431_Bottom_Courtyard.gbr
+
+    Adding Layer      : Bottom Courtyard
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : g431_Mechanical_15.gbr
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D12
+    D17
+    D89
+    D90
+    D91
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : g431_Keep-out.gbr
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : g431_Legend_Bot.gbr
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D16
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Top Component Center
+      File : g431_Top_Component_Center.gbr
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : g431_Bottom_Assembly.gbr
+
+    Adding Layer      : Bottom Assembly
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : g431_Soldermask_Bot.gbr
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D50
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D85
+*************************************************************
+
+*************************************************************
+Generating : Bottom 3D Body
+      File : g431_Bottom_3D_Body.gbr
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Component Center
+      File : g431_Bottom_Component_Center.gbr
+
+    Adding Layer      : Bottom Component Center
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : g431_Paste_Bot.gbr
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D34
+    D83
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : g431_Pads_Top.gbr
 
     Adding Layer      : Top Layer
 
@@ -366,11 +411,73 @@ Used DCodes :
     D34
     D35
     D36
+    D37
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : g431_Pads_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D34
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D83
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : g431_Copper_Signal_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D19
+    D34
+    D68
+    D69
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
 *************************************************************
 
 *************************************************************
 Generating : Drill Drawing
-      File : g431.GD1
+      File : g431_Drawing_1.gbr
 
     Adding Drill Pair : Top Layer-Bottom Layer
 
@@ -378,14 +485,14 @@ Generating : Drill Drawing
 
 
 Used DCodes :
-    D88
-    D89
-    D90
+    D91
+    D92
+    D93
 *************************************************************
 
 *************************************************************
 Generating : Drill Guide
-      File : g431.GG1
+      File : g431_Drillmap_1.gbr
 
     Adding Drill Pair : Top Layer-Bottom Layer
 
@@ -393,6 +500,15 @@ Generating : Drill Guide
 
 
 Used DCodes :
-    D88
+    D91
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : g431_Profile.gbr
+
+
+Used DCodes :
+    D94
 *************************************************************
 
